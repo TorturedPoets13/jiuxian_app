@@ -110,8 +110,6 @@ if __name__ == '__main__':
     run()
 ```
 
-![image-20240905193535573](C:\Users\tangb\Pictures\Screenshots\屏幕截图 2024-09-05 193512.png)
-
 ## 验证码登录
 
 ### 抓包分析
@@ -160,8 +158,6 @@ if __name__ == '__main__':
         "errMsg": ""
     	}
 ```
-
-![image-20240605201728187](D:\app逆向and爬虫\day23-酒仙网\imgs\day23-酒仙网.assets\image-20240605201728187.png)
 
 ### 识别图片验证码方案ddddocr
 
@@ -544,8 +540,6 @@ if __name__ == '__main__':
 # 8 以后使用 hluda 替代 frida-server
 ```
 
-![image-20240605214045671](D:/app逆向and爬虫/day23-酒仙网/imgs/day23-酒仙网.assets/image-20240605214045671.png)
-
 ##  绕过
 
 ```python
@@ -558,8 +552,6 @@ if __name__ == '__main__':
 	rwx   rwx   rwx
 # 5 以后可以不使用frida-server了，以后就用hluda 当frida-server用即可
 ```
-
-![image-20240605214547411](D:/app逆向and爬虫/day23-酒仙网/imgs/day23-酒仙网.assets/image-20240605214547411.png)
 
 
 
